@@ -11,7 +11,7 @@ The Beijing Air Quality Dashboard is designed to provide a comprehensive visuali
 ---
 
 ## Data Source
-The data used in this dashboard is sourced from AirQualityUCI.csv. It includes detailed records of various air pollutants, covering attributes such as NOx, NO2, NMHC, and O3 levels, as well as specific dates and times.
+The data used in this dashboard is sourced from AirQualityUCI.xlsx. It includes detailed records of various air pollutants, covering attributes such as NOx, NO2, NMHC, and O3 levels, as well as specific dates and times.
 
 ## Tools
 The dashboard was created using the following tools:
